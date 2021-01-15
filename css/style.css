@@ -1,0 +1,20 @@
+#pengu-color{
+    background-color: #fffbf0;
+}
+
+
+#madrid img{
+    height: 100px;
+
+}
+#hola img{
+    height: 500px;
+    justify-content: end;
+}
+.pengu-card{
+    border: 0;
+}
+.pengu-card-footer{
+    background-color: white;
+    border: 0;
+}
